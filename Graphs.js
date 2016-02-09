@@ -1,7 +1,7 @@
 //Import the Chart Libraries
 var head = document.getElementsByTagName('head')[0];
 var script = document.createElement('script');
-script.src = 'https://code.highcharts.com';
+script.src = 'https://code.highcharts.com/highcharts.js';
 head.appendChild(script);
 
 
